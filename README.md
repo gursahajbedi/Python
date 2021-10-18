@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gsin_75</h1>
-<h3 align="center">I am Just a Python Maniac,looking for commissions</h3>
+<h3 align="center">I am at my learning stage ,willing to learn further languages</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsin-75&label=Profile%20views&color=0e75b6&style=flat" alt="gsin-75" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsin-75" alt="gsin-75" /></a> </p>
 
-- 🌱 I’m currently learning **Python-tkinter and KIVY**
+- 🌱 I’m currently learning **Python and C**
 
 - 📫 How to reach me **gursahajsinghkhalsa@gmail.com**
 
